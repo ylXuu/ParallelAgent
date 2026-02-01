@@ -67,5 +67,11 @@ We will continue to update this repository with new methods for Monolithic Paral
 
 If our ParallelAgent is useful to you, please consider citing the following paper:
 ```bibtex
+@article{xu2026self,
+  title={Self-Manager: Parallel Agent Loop for Long-form Deep Research},
+  author={Xu, Yilong and Zheng, Zhi and Long, Xiang and Cai, Yujun and Wang, Yiwei},
+  journal={arXiv preprint arXiv:2601.17879},
+  year={2026}
+}
 ```
 
